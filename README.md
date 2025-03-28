@@ -45,20 +45,6 @@ java DigitalLibraryApplication
 
 ---
 
-## 🏗️ Build and Run JAR
-### **1. Create a JAR File**
-```sh
-jar cf DigitalLibrary.jar *.class
-```
-
-### **2. Run the JAR File**
-```sh
-java -jar DigitalLibrary.jar
-```
-
----
-
-
 ## 🙌 Contributing
 1. Fork the repo
 2. Create a new branch (`git checkout -b feature-branch`)
